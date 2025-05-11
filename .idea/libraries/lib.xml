@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/su-02-cool-zuul-main/su-02-cool-zuul-main/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/su-02-cool-zuul-main/su-02-cool-zuul-main/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/su-02-cool-zuul-main/su-02-cool-zuul-main/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/su-02-cool-zuul-main/su-02-cool-zuul-main/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
